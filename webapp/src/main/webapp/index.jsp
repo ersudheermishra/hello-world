@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying updated TO using JENKINS, MAVEN and BUILD TRIGGER</h2>
-<h2> Glad to see you here </h2>
+<h2> Deploying to container using Auto Poll via Jenkins</h2>
+<h2> Glad to see you here do it from Ansible </h2>
